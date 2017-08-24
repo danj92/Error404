@@ -1,0 +1,13 @@
+.navBar {
+  display: flex;
+  justify-content: center;
+}
+.navBar > li {
+  display: flex;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+.active {
+  font-weight: bold;
+}
